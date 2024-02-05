@@ -1,2 +1,2 @@
-# Text2Trakt
-Create trakt.tv list from .txt file
+# Txt2Trakt
+Create trakt.tv list (shows only, for now) from .txt file
